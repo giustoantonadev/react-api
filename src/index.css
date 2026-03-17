@@ -5,3 +5,11 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.card-img-top{
+  height: 350px;
+  object-fit: cover;
+}
+nav{
+  height: 40px;
+}
